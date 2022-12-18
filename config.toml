@@ -2,18 +2,30 @@
 languageCode = 'en-us'
 languageName = "English"
 title = 'Open Data for Web3'
-theme = "LoveIt"
+theme = "beautifulhugo"
 description = "Open Data for Web3"
+
 
 [author]
     name = "SpaceTristan"
+    github = "OpenDataforWeb3"
+    twitter = "OpenDataforWeb3"
+    discord = "OpenDataforWeb3"
 
 [params]
     title = "Open Data for Web3"
+    logo = "/avatar.jpg"
+    favicon = "/favicon-16x16.png"
 
 [params.header]
     [params.header.title]
         name = "Open Data for Web3"
+
+#[[Params.bigimg]]
+  #src = "/avatar.jpg"
+  #desc = "Square"
+  # position: see values of CSS background-position.
+  # position = "center top"
 
 # Menu config
 [menu]
