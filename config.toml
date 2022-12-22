@@ -1,24 +1,5 @@
 # baseURL = 'https://OpenDataforWeb3.github.io/'
 languageCode = 'en-us'
-<<<<<<< HEAD
-title = 'OpenData for Web3'
-theme = "m10c"
-
-[params]
-    # Author
-    author = "SpaceTristan"
-    # description
-    description = "A place for the Web3 data community."
-    # Social links
-    [[params.social]]
-        icon = "github"
-        name = "Github"
-        url = "https://github.com/OpenDataforWeb3"
-    [[params.social]]
-        icon = "twitter"
-        name = "Twitter"
-        url = "https://twitter.com/OpenDataforWeb3"
-=======
 languageName = "English"
 title = 'Open Data for Web3'
 theme = "hugo-PaperMod"
@@ -145,4 +126,3 @@ Open Data for Web3.
     noClasses = false
 
  
->>>>>>> papermod theme
