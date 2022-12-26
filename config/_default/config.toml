@@ -1,4 +1,4 @@
-baseurl = "opendataforweb3.github.io"
+baseurl = "spacetristan.github.io/opendataforweb3.github.io"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
