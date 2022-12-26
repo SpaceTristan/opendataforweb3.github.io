@@ -1,2 +1,2 @@
 canonifyURLs = true
-baseurl = https://spacetristan.github.io/opendataforweb3.github.io/
+baseurl = "https://spacetristan.github.io/opendataforweb3.github.io/"
