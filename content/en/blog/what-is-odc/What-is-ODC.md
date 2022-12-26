@@ -40,7 +40,7 @@ Open source technologies used to Index transactions.
 
 - Website: [https://thegraph.com/en/](https://thegraph.com/en/)
 
-- Github: [https://github.com/graphprotocol](https://github.com/graphprotocol) 
+- Github: [https://github.com/graphprotocol](https://github.com/graphprotocol)
 
 **TrueBlocks:**
 
@@ -155,4 +155,5 @@ Some projects are enabling the sharing of data and related analysis.
 - We can start with Hackathon contestants
 
 ### Join us
+
 Please do create an issue or simply a pull request against this document.  There are many opportunities to collaborate.  Please get in touch.
