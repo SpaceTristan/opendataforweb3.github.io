@@ -8,7 +8,7 @@
   name = "FAQ"
   weight = 70
   identifier = "faq"
-  url = "docs/faq/faq"
+  url = "docs/faq/"
 
 [[main]]
   name = "Docs"
@@ -36,7 +36,7 @@
   name = "FAQ"
   weight = 50
   identifier = "tutorial"
-  url = "/docs/faq"
+  url = "/docs/faq/faq"
   parent = "get-started"
 
 [[social]]
