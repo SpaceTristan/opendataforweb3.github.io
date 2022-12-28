@@ -35,8 +35,8 @@
 [[main]]
   name = "FAQ"
   weight = 50
-  identifier = "tutorial"
-  url = "/docs/faq/faq"
+  identifier = "faq"
+  url = "/docs/faq/faq/"
   parent = "get-started"
 
 [[social]]
