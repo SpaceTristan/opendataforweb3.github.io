@@ -8,7 +8,7 @@
   name = "FAQ"
   weight = 70
   identifier = "faq"
-  url = "docs/faq/"
+  url = "docs/faq/faq"
 
 [[main]]
   name = "Docs"
