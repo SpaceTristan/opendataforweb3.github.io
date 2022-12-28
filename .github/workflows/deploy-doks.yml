@@ -23,9 +23,6 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Check for linting errors
-        run: npm test
-
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v2
