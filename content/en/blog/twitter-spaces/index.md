@@ -1,13 +1,18 @@
 ---
-title : "OpenData Community Hackathon: Partners host educational Twitter Spaces"
+title: "OpenData Community Hackathon: Partners host educational Twitter Spaces"
 description: "OpenData Community Hackathon: Partners host educational Twitter Spaces"
-lead: "Fight Sybils, Decentralize Data"
-contributors: ["Baokiddy"]
-date: 2023-01-27T22:26:54+01:00
-lastmod: 2023-01-27T22:26:54+01:00
+excerpt: ""
+date: 2023-01-08T20:53:08-03:00
+lastmod: 2023-01-08T20:53:08-03:00
 draft: false
 images: [holding_up_sign_twitterspace.jpg]
+categories: []
+tags: []
+contributors: ["Baokiddy"]
+pinned: false
+homepage: false
 ---
+
 
 *January 9, 2023*
 
